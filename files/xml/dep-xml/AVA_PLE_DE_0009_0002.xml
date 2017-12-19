@@ -1,0 +1,1873 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Consolidado>
+<Avance>
+	<Numero V="0009"/> 
+	<Boletin V="0009"/> 
+	<Tipo_Avance V="DEPARTAMENTAL"/> 
+	<Desc_Corporacion V="PLEBISCITO"/> 
+	<Departamento V="01"/> 
+	<Desc_Departamento V="ANTIOQUIA"/> 
+	<Municipio V="000"/> 
+	<Desc_Municipio V="NO APLICA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="16"/> 
+	<Mes V="09"/> 
+	<Anio V="2016"/> 
+	<Hora V="12"/> 
+	<Minuto V="47"/> 
+	<Seg V="15"/> 
+	<Mesas_Instaladas V="10364"/> 
+	<Mesas_Informadas V="9370"/> 
+	<Porc_Mesas_Informadas V="090,40"/> 
+	<Potencial_Sufragantes V="4544054"/> 
+	<Total_Sufragantes V="4089375"/> 
+	<Porc_Sufragantes V="089,99"/> 
+	<Votos_Nulos V="102114"/> 
+	<Porc_Votos_Nulos V="002,49"/> 
+	<Votos_No_Marcados V="61218"/> 
+	<Porc_Votos_No_Marcados V="001,49"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="0"/> 
+		<Desc_Circunscripcion V="NACIONAL"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="2402661"/> 
+				<Porc V="061,19"/> 
+			</lin>
+			<lin>
+				<Partido V="002"/> 
+				<Votos V="1523382"/> 
+				<Porc V="038,80"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="3926043"/> 
+				<Porc V="096,00"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0009"/> 
+	<Boletin V="0009"/> 
+	<Tipo_Avance V="DEPARTAMENTAL"/> 
+	<Desc_Corporacion V="PLEBISCITO"/> 
+	<Departamento V="03"/> 
+	<Desc_Departamento V="ATLANTICO"/> 
+	<Municipio V="000"/> 
+	<Desc_Municipio V="NO APLICA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="16"/> 
+	<Mes V="09"/> 
+	<Anio V="2016"/> 
+	<Hora V="12"/> 
+	<Minuto V="47"/> 
+	<Seg V="15"/> 
+	<Mesas_Instaladas V="4112"/> 
+	<Mesas_Informadas V="3733"/> 
+	<Porc_Mesas_Informadas V="090,78"/> 
+	<Potencial_Sufragantes V="1787572"/> 
+	<Total_Sufragantes V="1608769"/> 
+	<Porc_Sufragantes V="089,99"/> 
+	<Votos_Nulos V="40199"/> 
+	<Porc_Votos_Nulos V="002,49"/> 
+	<Votos_No_Marcados V="24112"/> 
+	<Porc_Votos_No_Marcados V="001,49"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="0"/> 
+		<Desc_Circunscripcion V="NACIONAL"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="793747"/> 
+				<Porc V="051,39"/> 
+			</lin>
+			<lin>
+				<Partido V="002"/> 
+				<Votos V="750711"/> 
+				<Porc V="048,60"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="1544458"/> 
+				<Porc V="096,00"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0009"/> 
+	<Boletin V="0009"/> 
+	<Tipo_Avance V="DEPARTAMENTAL"/> 
+	<Desc_Corporacion V="PLEBISCITO"/> 
+	<Departamento V="05"/> 
+	<Desc_Departamento V="BOLIVAR"/> 
+	<Municipio V="000"/> 
+	<Desc_Municipio V="NO APLICA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="16"/> 
+	<Mes V="09"/> 
+	<Anio V="2016"/> 
+	<Hora V="12"/> 
+	<Minuto V="47"/> 
+	<Seg V="15"/> 
+	<Mesas_Instaladas V="3575"/> 
+	<Mesas_Informadas V="3206"/> 
+	<Porc_Mesas_Informadas V="089,67"/> 
+	<Potencial_Sufragantes V="1501556"/> 
+	<Total_Sufragantes V="1351302"/> 
+	<Porc_Sufragantes V="089,99"/> 
+	<Votos_Nulos V="33740"/> 
+	<Porc_Votos_Nulos V="002,49"/> 
+	<Votos_No_Marcados V="20228"/> 
+	<Porc_Votos_No_Marcados V="001,49"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="0"/> 
+		<Desc_Circunscripcion V="NACIONAL"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="592481"/> 
+				<Porc V="045,66"/> 
+			</lin>
+			<lin>
+				<Partido V="002"/> 
+				<Votos V="704853"/> 
+				<Porc V="054,33"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="1297334"/> 
+				<Porc V="096,00"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0009"/> 
+	<Boletin V="0009"/> 
+	<Tipo_Avance V="DEPARTAMENTAL"/> 
+	<Desc_Corporacion V="PLEBISCITO"/> 
+	<Departamento V="07"/> 
+	<Desc_Departamento V="BOYACA"/> 
+	<Municipio V="000"/> 
+	<Desc_Municipio V="NO APLICA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="16"/> 
+	<Mes V="09"/> 
+	<Anio V="2016"/> 
+	<Hora V="12"/> 
+	<Minuto V="47"/> 
+	<Seg V="15"/> 
+	<Mesas_Instaladas V="2263"/> 
+	<Mesas_Informadas V="2016"/> 
+	<Porc_Mesas_Informadas V="089,08"/> 
+	<Potencial_Sufragantes V="929212"/> 
+	<Total_Sufragantes V="836046"/> 
+	<Porc_Sufragantes V="089,97"/> 
+	<Votos_Nulos V="20789"/> 
+	<Porc_Votos_Nulos V="002,48"/> 
+	<Votos_No_Marcados V="12427"/> 
+	<Porc_Votos_No_Marcados V="001,48"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="0"/> 
+		<Desc_Circunscripcion V="NACIONAL"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="412377"/> 
+				<Porc V="051,36"/> 
+			</lin>
+			<lin>
+				<Partido V="002"/> 
+				<Votos V="390453"/> 
+				<Porc V="048,63"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="802830"/> 
+				<Porc V="096,02"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0009"/> 
+	<Boletin V="0009"/> 
+	<Tipo_Avance V="DEPARTAMENTAL"/> 
+	<Desc_Corporacion V="PLEBISCITO"/> 
+	<Departamento V="09"/> 
+	<Desc_Departamento V="CALDAS"/> 
+	<Municipio V="000"/> 
+	<Desc_Municipio V="NO APLICA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="16"/> 
+	<Mes V="09"/> 
+	<Anio V="2016"/> 
+	<Hora V="12"/> 
+	<Minuto V="47"/> 
+	<Seg V="15"/> 
+	<Mesas_Instaladas V="1842"/> 
+	<Mesas_Informadas V="1646"/> 
+	<Porc_Mesas_Informadas V="089,35"/> 
+	<Potencial_Sufragantes V="779478"/> 
+	<Total_Sufragantes V="701468"/> 
+	<Porc_Sufragantes V="089,99"/> 
+	<Votos_Nulos V="17509"/> 
+	<Porc_Votos_Nulos V="002,49"/> 
+	<Votos_No_Marcados V="10495"/> 
+	<Porc_Votos_No_Marcados V="001,49"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="0"/> 
+		<Desc_Circunscripcion V="NACIONAL"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="275148"/> 
+				<Porc V="040,85"/> 
+			</lin>
+			<lin>
+				<Partido V="002"/> 
+				<Votos V="398316"/> 
+				<Porc V="059,14"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="673464"/> 
+				<Porc V="096,00"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0009"/> 
+	<Boletin V="0009"/> 
+	<Tipo_Avance V="DEPARTAMENTAL"/> 
+	<Desc_Corporacion V="PLEBISCITO"/> 
+	<Departamento V="11"/> 
+	<Desc_Departamento V="CAUCA"/> 
+	<Municipio V="000"/> 
+	<Desc_Municipio V="NO APLICA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="16"/> 
+	<Mes V="09"/> 
+	<Anio V="2016"/> 
+	<Hora V="12"/> 
+	<Minuto V="47"/> 
+	<Seg V="15"/> 
+	<Mesas_Instaladas V="2422"/> 
+	<Mesas_Informadas V="2153"/> 
+	<Porc_Mesas_Informadas V="088,89"/> 
+	<Potencial_Sufragantes V="928616"/> 
+	<Total_Sufragantes V="835667"/> 
+	<Porc_Sufragantes V="089,99"/> 
+	<Votos_Nulos V="20850"/> 
+	<Porc_Votos_Nulos V="002,49"/> 
+	<Votos_No_Marcados V="12494"/> 
+	<Porc_Votos_No_Marcados V="001,49"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="0"/> 
+		<Desc_Circunscripcion V="NACIONAL"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="313681"/> 
+				<Porc V="039,09"/> 
+			</lin>
+			<lin>
+				<Partido V="002"/> 
+				<Votos V="488642"/> 
+				<Porc V="060,90"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="802323"/> 
+				<Porc V="096,00"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0009"/> 
+	<Boletin V="0009"/> 
+	<Tipo_Avance V="DEPARTAMENTAL"/> 
+	<Desc_Corporacion V="PLEBISCITO"/> 
+	<Departamento V="12"/> 
+	<Desc_Departamento V="CESAR"/> 
+	<Municipio V="000"/> 
+	<Desc_Municipio V="NO APLICA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="16"/> 
+	<Mes V="09"/> 
+	<Anio V="2016"/> 
+	<Hora V="12"/> 
+	<Minuto V="47"/> 
+	<Seg V="15"/> 
+	<Mesas_Instaladas V="1780"/> 
+	<Mesas_Informadas V="1566"/> 
+	<Porc_Mesas_Informadas V="087,97"/> 
+	<Potencial_Sufragantes V="748378"/> 
+	<Total_Sufragantes V="673487"/> 
+	<Porc_Sufragantes V="089,99"/> 
+	<Votos_Nulos V="16813"/> 
+	<Porc_Votos_Nulos V="002,49"/> 
+	<Votos_No_Marcados V="10079"/> 
+	<Porc_Votos_No_Marcados V="001,49"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="0"/> 
+		<Desc_Circunscripcion V="NACIONAL"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="299541"/> 
+				<Porc V="046,32"/> 
+			</lin>
+			<lin>
+				<Partido V="002"/> 
+				<Votos V="347054"/> 
+				<Porc V="053,67"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="646595"/> 
+				<Porc V="096,00"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0009"/> 
+	<Boletin V="0009"/> 
+	<Tipo_Avance V="DEPARTAMENTAL"/> 
+	<Desc_Corporacion V="PLEBISCITO"/> 
+	<Departamento V="13"/> 
+	<Desc_Departamento V="CORDOBA"/> 
+	<Municipio V="000"/> 
+	<Desc_Municipio V="NO APLICA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="16"/> 
+	<Mes V="09"/> 
+	<Anio V="2016"/> 
+	<Hora V="12"/> 
+	<Minuto V="47"/> 
+	<Seg V="15"/> 
+	<Mesas_Instaladas V="2870"/> 
+	<Mesas_Informadas V="2549"/> 
+	<Porc_Mesas_Informadas V="088,81"/> 
+	<Potencial_Sufragantes V="1199892"/> 
+	<Total_Sufragantes V="1079842"/> 
+	<Porc_Sufragantes V="089,99"/> 
+	<Votos_Nulos V="26967"/> 
+	<Porc_Votos_Nulos V="002,49"/> 
+	<Votos_No_Marcados V="16168"/> 
+	<Porc_Votos_No_Marcados V="001,49"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="0"/> 
+		<Desc_Circunscripcion V="NACIONAL"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="465353"/> 
+				<Porc V="044,88"/> 
+			</lin>
+			<lin>
+				<Partido V="002"/> 
+				<Votos V="571354"/> 
+				<Porc V="055,11"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="1036707"/> 
+				<Porc V="096,00"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0009"/> 
+	<Boletin V="0009"/> 
+	<Tipo_Avance V="DEPARTAMENTAL"/> 
+	<Desc_Corporacion V="PLEBISCITO"/> 
+	<Departamento V="15"/> 
+	<Desc_Departamento V="CUNDINAMARCA"/> 
+	<Municipio V="000"/> 
+	<Desc_Municipio V="NO APLICA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="16"/> 
+	<Mes V="09"/> 
+	<Anio V="2016"/> 
+	<Hora V="12"/> 
+	<Minuto V="47"/> 
+	<Seg V="15"/> 
+	<Mesas_Instaladas V="4109"/> 
+	<Mesas_Informadas V="3704"/> 
+	<Porc_Mesas_Informadas V="090,14"/> 
+	<Potencial_Sufragantes V="1766956"/> 
+	<Total_Sufragantes V="1590014"/> 
+	<Porc_Sufragantes V="089,98"/> 
+	<Votos_Nulos V="39642"/> 
+	<Porc_Votos_Nulos V="002,49"/> 
+	<Votos_No_Marcados V="23739"/> 
+	<Porc_Votos_No_Marcados V="001,49"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="0"/> 
+		<Desc_Circunscripcion V="NACIONAL"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="867351"/> 
+				<Porc V="056,81"/> 
+			</lin>
+			<lin>
+				<Partido V="002"/> 
+				<Votos V="659282"/> 
+				<Porc V="043,18"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="1526633"/> 
+				<Porc V="096,01"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0009"/> 
+	<Boletin V="0009"/> 
+	<Tipo_Avance V="DEPARTAMENTAL"/> 
+	<Desc_Corporacion V="PLEBISCITO"/> 
+	<Departamento V="16"/> 
+	<Desc_Departamento V="BOGOTA D.C."/> 
+	<Municipio V="000"/> 
+	<Desc_Municipio V="NO APLICA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="16"/> 
+	<Mes V="09"/> 
+	<Anio V="2016"/> 
+	<Hora V="12"/> 
+	<Minuto V="47"/> 
+	<Seg V="15"/> 
+	<Mesas_Instaladas V="12088"/> 
+	<Mesas_Informadas V="11546"/> 
+	<Porc_Mesas_Informadas V="095,51"/> 
+	<Potencial_Sufragantes V="5552078"/> 
+	<Total_Sufragantes V="4996867"/> 
+	<Porc_Sufragantes V="089,99"/> 
+	<Votos_Nulos V="124920"/> 
+	<Porc_Votos_Nulos V="002,49"/> 
+	<Votos_No_Marcados V="74952"/> 
+	<Porc_Votos_No_Marcados V="001,49"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="0"/> 
+		<Desc_Circunscripcion V="NACIONAL"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="1788565"/> 
+				<Porc V="037,28"/> 
+			</lin>
+			<lin>
+				<Partido V="002"/> 
+				<Votos V="3008430"/> 
+				<Porc V="062,71"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="4796995"/> 
+				<Porc V="096,00"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0009"/> 
+	<Boletin V="0009"/> 
+	<Tipo_Avance V="DEPARTAMENTAL"/> 
+	<Desc_Corporacion V="PLEBISCITO"/> 
+	<Departamento V="17"/> 
+	<Desc_Departamento V="CHOCO"/> 
+	<Municipio V="000"/> 
+	<Desc_Municipio V="NO APLICA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="16"/> 
+	<Mes V="09"/> 
+	<Anio V="2016"/> 
+	<Hora V="12"/> 
+	<Minuto V="47"/> 
+	<Seg V="15"/> 
+	<Mesas_Instaladas V="883"/> 
+	<Mesas_Informadas V="759"/> 
+	<Porc_Mesas_Informadas V="085,95"/> 
+	<Potencial_Sufragantes V="296783"/> 
+	<Total_Sufragantes V="267043"/> 
+	<Porc_Sufragantes V="089,97"/> 
+	<Votos_Nulos V="6648"/> 
+	<Porc_Votos_Nulos V="002,48"/> 
+	<Votos_No_Marcados V="3978"/> 
+	<Porc_Votos_No_Marcados V="001,48"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="0"/> 
+		<Desc_Circunscripcion V="NACIONAL"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="137916"/> 
+				<Porc V="053,78"/> 
+			</lin>
+			<lin>
+				<Partido V="002"/> 
+				<Votos V="118501"/> 
+				<Porc V="046,21"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="256417"/> 
+				<Porc V="096,02"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0009"/> 
+	<Boletin V="0009"/> 
+	<Tipo_Avance V="DEPARTAMENTAL"/> 
+	<Desc_Corporacion V="PLEBISCITO"/> 
+	<Departamento V="19"/> 
+	<Desc_Departamento V="HUILA"/> 
+	<Municipio V="000"/> 
+	<Desc_Municipio V="NO APLICA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="16"/> 
+	<Mes V="09"/> 
+	<Anio V="2016"/> 
+	<Hora V="12"/> 
+	<Minuto V="47"/> 
+	<Seg V="15"/> 
+	<Mesas_Instaladas V="1845"/> 
+	<Mesas_Informadas V="1656"/> 
+	<Porc_Mesas_Informadas V="089,75"/> 
+	<Potencial_Sufragantes V="794702"/> 
+	<Total_Sufragantes V="715157"/> 
+	<Porc_Sufragantes V="089,99"/> 
+	<Votos_Nulos V="17847"/> 
+	<Porc_Votos_Nulos V="002,49"/> 
+	<Votos_No_Marcados V="10691"/> 
+	<Porc_Votos_No_Marcados V="001,49"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="0"/> 
+		<Desc_Circunscripcion V="NACIONAL"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="423752"/> 
+				<Porc V="061,71"/> 
+			</lin>
+			<lin>
+				<Partido V="002"/> 
+				<Votos V="262867"/> 
+				<Porc V="038,28"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="686619"/> 
+				<Porc V="096,00"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0009"/> 
+	<Boletin V="0009"/> 
+	<Tipo_Avance V="DEPARTAMENTAL"/> 
+	<Desc_Corporacion V="PLEBISCITO"/> 
+	<Departamento V="21"/> 
+	<Desc_Departamento V="MAGDALENA"/> 
+	<Municipio V="000"/> 
+	<Desc_Municipio V="NO APLICA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="16"/> 
+	<Mes V="09"/> 
+	<Anio V="2016"/> 
+	<Hora V="12"/> 
+	<Minuto V="47"/> 
+	<Seg V="15"/> 
+	<Mesas_Instaladas V="2154"/> 
+	<Mesas_Informadas V="1934"/> 
+	<Porc_Mesas_Informadas V="089,78"/> 
+	<Potencial_Sufragantes V="909271"/> 
+	<Total_Sufragantes V="818283"/> 
+	<Porc_Sufragantes V="089,99"/> 
+	<Votos_Nulos V="20431"/> 
+	<Porc_Votos_Nulos V="002,49"/> 
+	<Votos_No_Marcados V="12252"/> 
+	<Porc_Votos_No_Marcados V="001,49"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="0"/> 
+		<Desc_Circunscripcion V="NACIONAL"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="395222"/> 
+				<Porc V="050,30"/> 
+			</lin>
+			<lin>
+				<Partido V="002"/> 
+				<Votos V="390378"/> 
+				<Porc V="049,69"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="785600"/> 
+				<Porc V="096,00"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0009"/> 
+	<Boletin V="0009"/> 
+	<Tipo_Avance V="DEPARTAMENTAL"/> 
+	<Desc_Corporacion V="PLEBISCITO"/> 
+	<Departamento V="23"/> 
+	<Desc_Departamento V="NARIÑO"/> 
+	<Municipio V="000"/> 
+	<Desc_Municipio V="NO APLICA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="16"/> 
+	<Mes V="09"/> 
+	<Anio V="2016"/> 
+	<Hora V="12"/> 
+	<Minuto V="47"/> 
+	<Seg V="15"/> 
+	<Mesas_Instaladas V="2877"/> 
+	<Mesas_Informadas V="2516"/> 
+	<Porc_Mesas_Informadas V="087,45"/> 
+	<Potencial_Sufragantes V="1086803"/> 
+	<Total_Sufragantes V="977983"/> 
+	<Porc_Sufragantes V="089,98"/> 
+	<Votos_Nulos V="24388"/> 
+	<Porc_Votos_Nulos V="002,49"/> 
+	<Votos_No_Marcados V="14609"/> 
+	<Porc_Votos_No_Marcados V="001,49"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="0"/> 
+		<Desc_Circunscripcion V="NACIONAL"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="486682"/> 
+				<Porc V="051,83"/> 
+			</lin>
+			<lin>
+				<Partido V="002"/> 
+				<Votos V="452304"/> 
+				<Porc V="048,16"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="938986"/> 
+				<Porc V="096,01"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0009"/> 
+	<Boletin V="0009"/> 
+	<Tipo_Avance V="DEPARTAMENTAL"/> 
+	<Desc_Corporacion V="PLEBISCITO"/> 
+	<Departamento V="24"/> 
+	<Desc_Departamento V="RISARALDA"/> 
+	<Municipio V="000"/> 
+	<Desc_Municipio V="NO APLICA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="16"/> 
+	<Mes V="09"/> 
+	<Anio V="2016"/> 
+	<Hora V="12"/> 
+	<Minuto V="47"/> 
+	<Seg V="15"/> 
+	<Mesas_Instaladas V="1741"/> 
+	<Mesas_Informadas V="1558"/> 
+	<Porc_Mesas_Informadas V="089,48"/> 
+	<Potencial_Sufragantes V="761574"/> 
+	<Total_Sufragantes V="685388"/> 
+	<Porc_Sufragantes V="089,99"/> 
+	<Votos_Nulos V="17121"/> 
+	<Porc_Votos_Nulos V="002,49"/> 
+	<Votos_No_Marcados V="10267"/> 
+	<Porc_Votos_No_Marcados V="001,49"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="0"/> 
+		<Desc_Circunscripcion V="NACIONAL"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="421673"/> 
+				<Porc V="064,08"/> 
+			</lin>
+			<lin>
+				<Partido V="002"/> 
+				<Votos V="236327"/> 
+				<Porc V="035,91"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="658000"/> 
+				<Porc V="096,00"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0009"/> 
+	<Boletin V="0009"/> 
+	<Tipo_Avance V="DEPARTAMENTAL"/> 
+	<Desc_Corporacion V="PLEBISCITO"/> 
+	<Departamento V="25"/> 
+	<Desc_Departamento V="NORTE DE SAN"/> 
+	<Municipio V="000"/> 
+	<Desc_Municipio V="NO APLICA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="16"/> 
+	<Mes V="09"/> 
+	<Anio V="2016"/> 
+	<Hora V="12"/> 
+	<Minuto V="47"/> 
+	<Seg V="15"/> 
+	<Mesas_Instaladas V="2672"/> 
+	<Mesas_Informadas V="2391"/> 
+	<Porc_Mesas_Informadas V="089,48"/> 
+	<Potencial_Sufragantes V="1121226"/> 
+	<Total_Sufragantes V="1009016"/> 
+	<Porc_Sufragantes V="089,99"/> 
+	<Votos_Nulos V="25191"/> 
+	<Porc_Votos_Nulos V="002,49"/> 
+	<Votos_No_Marcados V="15096"/> 
+	<Porc_Votos_No_Marcados V="001,49"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="0"/> 
+		<Desc_Circunscripcion V="NACIONAL"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="283864"/> 
+				<Porc V="029,30"/> 
+			</lin>
+			<lin>
+				<Partido V="002"/> 
+				<Votos V="684865"/> 
+				<Porc V="070,69"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="968729"/> 
+				<Porc V="096,00"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0009"/> 
+	<Boletin V="0009"/> 
+	<Tipo_Avance V="DEPARTAMENTAL"/> 
+	<Desc_Corporacion V="PLEBISCITO"/> 
+	<Departamento V="26"/> 
+	<Desc_Departamento V="QUINDIO"/> 
+	<Municipio V="000"/> 
+	<Desc_Municipio V="NO APLICA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="16"/> 
+	<Mes V="09"/> 
+	<Anio V="2016"/> 
+	<Hora V="12"/> 
+	<Minuto V="47"/> 
+	<Seg V="15"/> 
+	<Mesas_Instaladas V="1070"/> 
+	<Mesas_Informadas V="959"/> 
+	<Porc_Mesas_Informadas V="089,62"/> 
+	<Potencial_Sufragantes V="456559"/> 
+	<Total_Sufragantes V="410880"/> 
+	<Porc_Sufragantes V="089,99"/> 
+	<Votos_Nulos V="10261"/> 
+	<Porc_Votos_Nulos V="002,49"/> 
+	<Votos_No_Marcados V="6152"/> 
+	<Porc_Votos_No_Marcados V="001,49"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="0"/> 
+		<Desc_Circunscripcion V="NACIONAL"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="182499"/> 
+				<Porc V="046,26"/> 
+			</lin>
+			<lin>
+				<Partido V="002"/> 
+				<Votos V="211968"/> 
+				<Porc V="053,73"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="394467"/> 
+				<Porc V="096,00"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0009"/> 
+	<Boletin V="0009"/> 
+	<Tipo_Avance V="DEPARTAMENTAL"/> 
+	<Desc_Corporacion V="PLEBISCITO"/> 
+	<Departamento V="27"/> 
+	<Desc_Departamento V="SANTANDER"/> 
+	<Municipio V="000"/> 
+	<Desc_Municipio V="NO APLICA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="16"/> 
+	<Mes V="09"/> 
+	<Anio V="2016"/> 
+	<Hora V="12"/> 
+	<Minuto V="47"/> 
+	<Seg V="15"/> 
+	<Mesas_Instaladas V="4063"/> 
+	<Mesas_Informadas V="3602"/> 
+	<Porc_Mesas_Informadas V="088,65"/> 
+	<Potencial_Sufragantes V="1634837"/> 
+	<Total_Sufragantes V="1471175"/> 
+	<Porc_Sufragantes V="089,98"/> 
+	<Votos_Nulos V="36702"/> 
+	<Porc_Votos_Nulos V="002,49"/> 
+	<Votos_No_Marcados V="21988"/> 
+	<Porc_Votos_No_Marcados V="001,49"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="0"/> 
+		<Desc_Circunscripcion V="NACIONAL"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="643224"/> 
+				<Porc V="045,53"/> 
+			</lin>
+			<lin>
+				<Partido V="002"/> 
+				<Votos V="769261"/> 
+				<Porc V="054,46"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="1412485"/> 
+				<Porc V="096,01"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0009"/> 
+	<Boletin V="0009"/> 
+	<Tipo_Avance V="DEPARTAMENTAL"/> 
+	<Desc_Corporacion V="PLEBISCITO"/> 
+	<Departamento V="28"/> 
+	<Desc_Departamento V="SUCRE"/> 
+	<Municipio V="000"/> 
+	<Desc_Municipio V="NO APLICA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="16"/> 
+	<Mes V="09"/> 
+	<Anio V="2016"/> 
+	<Hora V="12"/> 
+	<Minuto V="47"/> 
+	<Seg V="15"/> 
+	<Mesas_Instaladas V="1633"/> 
+	<Mesas_Informadas V="1447"/> 
+	<Porc_Mesas_Informadas V="088,60"/> 
+	<Potencial_Sufragantes V="662330"/> 
+	<Total_Sufragantes V="596037"/> 
+	<Porc_Sufragantes V="089,99"/> 
+	<Votos_Nulos V="14877"/> 
+	<Porc_Votos_Nulos V="002,49"/> 
+	<Votos_No_Marcados V="8913"/> 
+	<Porc_Votos_No_Marcados V="001,49"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="0"/> 
+		<Desc_Circunscripcion V="NACIONAL"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="263806"/> 
+				<Porc V="046,10"/> 
+			</lin>
+			<lin>
+				<Partido V="002"/> 
+				<Votos V="308441"/> 
+				<Porc V="053,89"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="572247"/> 
+				<Porc V="096,00"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0009"/> 
+	<Boletin V="0009"/> 
+	<Tipo_Avance V="DEPARTAMENTAL"/> 
+	<Desc_Corporacion V="PLEBISCITO"/> 
+	<Departamento V="29"/> 
+	<Desc_Departamento V="TOLIMA"/> 
+	<Municipio V="000"/> 
+	<Desc_Municipio V="NO APLICA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="16"/> 
+	<Mes V="09"/> 
+	<Anio V="2016"/> 
+	<Hora V="12"/> 
+	<Minuto V="47"/> 
+	<Seg V="15"/> 
+	<Mesas_Instaladas V="2485"/> 
+	<Mesas_Informadas V="2210"/> 
+	<Porc_Mesas_Informadas V="088,93"/> 
+	<Potencial_Sufragantes V="1042043"/> 
+	<Total_Sufragantes V="937735"/> 
+	<Porc_Sufragantes V="089,99"/> 
+	<Votos_Nulos V="23399"/> 
+	<Porc_Votos_Nulos V="002,49"/> 
+	<Votos_No_Marcados V="14026"/> 
+	<Porc_Votos_No_Marcados V="001,49"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="0"/> 
+		<Desc_Circunscripcion V="NACIONAL"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="375642"/> 
+				<Porc V="041,72"/> 
+			</lin>
+			<lin>
+				<Partido V="002"/> 
+				<Votos V="524668"/> 
+				<Porc V="058,27"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="900310"/> 
+				<Porc V="096,00"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0009"/> 
+	<Boletin V="0009"/> 
+	<Tipo_Avance V="DEPARTAMENTAL"/> 
+	<Desc_Corporacion V="PLEBISCITO"/> 
+	<Departamento V="31"/> 
+	<Desc_Departamento V="VALLE"/> 
+	<Municipio V="000"/> 
+	<Desc_Municipio V="NO APLICA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="16"/> 
+	<Mes V="09"/> 
+	<Anio V="2016"/> 
+	<Hora V="12"/> 
+	<Minuto V="47"/> 
+	<Seg V="15"/> 
+	<Mesas_Instaladas V="7942"/> 
+	<Mesas_Informadas V="7180"/> 
+	<Porc_Mesas_Informadas V="090,40"/> 
+	<Potencial_Sufragantes V="3408775"/> 
+	<Total_Sufragantes V="3067812"/> 
+	<Porc_Sufragantes V="089,99"/> 
+	<Votos_Nulos V="76662"/> 
+	<Porc_Votos_Nulos V="002,49"/> 
+	<Votos_No_Marcados V="45980"/> 
+	<Porc_Votos_No_Marcados V="001,49"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="0"/> 
+		<Desc_Circunscripcion V="NACIONAL"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="1133386"/> 
+				<Porc V="038,48"/> 
+			</lin>
+			<lin>
+				<Partido V="002"/> 
+				<Votos V="1811784"/> 
+				<Porc V="061,51"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="2945170"/> 
+				<Porc V="096,00"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0009"/> 
+	<Boletin V="0009"/> 
+	<Tipo_Avance V="DEPARTAMENTAL"/> 
+	<Desc_Corporacion V="PLEBISCITO"/> 
+	<Departamento V="40"/> 
+	<Desc_Departamento V="ARAUCA"/> 
+	<Municipio V="000"/> 
+	<Desc_Municipio V="NO APLICA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="16"/> 
+	<Mes V="09"/> 
+	<Anio V="2016"/> 
+	<Hora V="12"/> 
+	<Minuto V="47"/> 
+	<Seg V="15"/> 
+	<Mesas_Instaladas V="425"/> 
+	<Mesas_Informadas V="376"/> 
+	<Porc_Mesas_Informadas V="088,47"/> 
+	<Potencial_Sufragantes V="177254"/> 
+	<Total_Sufragantes V="159515"/> 
+	<Porc_Sufragantes V="089,99"/> 
+	<Votos_Nulos V="3982"/> 
+	<Porc_Votos_Nulos V="002,49"/> 
+	<Votos_No_Marcados V="2387"/> 
+	<Porc_Votos_No_Marcados V="001,49"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="0"/> 
+		<Desc_Circunscripcion V="NACIONAL"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="70347"/> 
+				<Porc V="045,93"/> 
+			</lin>
+			<lin>
+				<Partido V="002"/> 
+				<Votos V="82799"/> 
+				<Porc V="054,06"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="153146"/> 
+				<Porc V="096,00"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0009"/> 
+	<Boletin V="0009"/> 
+	<Tipo_Avance V="DEPARTAMENTAL"/> 
+	<Desc_Corporacion V="PLEBISCITO"/> 
+	<Departamento V="44"/> 
+	<Desc_Departamento V="CAQUETA"/> 
+	<Municipio V="000"/> 
+	<Desc_Municipio V="NO APLICA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="16"/> 
+	<Mes V="09"/> 
+	<Anio V="2016"/> 
+	<Hora V="12"/> 
+	<Minuto V="47"/> 
+	<Seg V="15"/> 
+	<Mesas_Instaladas V="672"/> 
+	<Mesas_Informadas V="601"/> 
+	<Porc_Mesas_Informadas V="089,43"/> 
+	<Potencial_Sufragantes V="282188"/> 
+	<Total_Sufragantes V="253930"/> 
+	<Porc_Sufragantes V="089,98"/> 
+	<Votos_Nulos V="6331"/> 
+	<Porc_Votos_Nulos V="002,49"/> 
+	<Votos_No_Marcados V="3794"/> 
+	<Porc_Votos_No_Marcados V="001,49"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="0"/> 
+		<Desc_Circunscripcion V="NACIONAL"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="155687"/> 
+				<Porc V="063,85"/> 
+			</lin>
+			<lin>
+				<Partido V="002"/> 
+				<Votos V="88118"/> 
+				<Porc V="036,14"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="243805"/> 
+				<Porc V="096,01"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0009"/> 
+	<Boletin V="0009"/> 
+	<Tipo_Avance V="DEPARTAMENTAL"/> 
+	<Desc_Corporacion V="PLEBISCITO"/> 
+	<Departamento V="46"/> 
+	<Desc_Departamento V="CASANARE"/> 
+	<Municipio V="000"/> 
+	<Desc_Municipio V="NO APLICA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="16"/> 
+	<Mes V="09"/> 
+	<Anio V="2016"/> 
+	<Hora V="12"/> 
+	<Minuto V="47"/> 
+	<Seg V="15"/> 
+	<Mesas_Instaladas V="678"/> 
+	<Mesas_Informadas V="592"/> 
+	<Porc_Mesas_Informadas V="087,31"/> 
+	<Potencial_Sufragantes V="263962"/> 
+	<Total_Sufragantes V="237527"/> 
+	<Porc_Sufragantes V="089,98"/> 
+	<Votos_Nulos V="5923"/> 
+	<Porc_Votos_Nulos V="002,49"/> 
+	<Votos_No_Marcados V="3545"/> 
+	<Porc_Votos_No_Marcados V="001,49"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="0"/> 
+		<Desc_Circunscripcion V="NACIONAL"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="156755"/> 
+				<Porc V="068,73"/> 
+			</lin>
+			<lin>
+				<Partido V="002"/> 
+				<Votos V="71304"/> 
+				<Porc V="031,26"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="228059"/> 
+				<Porc V="096,01"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0009"/> 
+	<Boletin V="0009"/> 
+	<Tipo_Avance V="DEPARTAMENTAL"/> 
+	<Desc_Corporacion V="PLEBISCITO"/> 
+	<Departamento V="48"/> 
+	<Desc_Departamento V="LA GUAJIRA"/> 
+	<Municipio V="000"/> 
+	<Desc_Municipio V="NO APLICA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="16"/> 
+	<Mes V="09"/> 
+	<Anio V="2016"/> 
+	<Hora V="12"/> 
+	<Minuto V="47"/> 
+	<Seg V="15"/> 
+	<Mesas_Instaladas V="1341"/> 
+	<Mesas_Informadas V="1191"/> 
+	<Porc_Mesas_Informadas V="088,81"/> 
+	<Potencial_Sufragantes V="563181"/> 
+	<Total_Sufragantes V="506834"/> 
+	<Porc_Sufragantes V="089,99"/> 
+	<Votos_Nulos V="12656"/> 
+	<Porc_Votos_Nulos V="002,49"/> 
+	<Votos_No_Marcados V="7589"/> 
+	<Porc_Votos_No_Marcados V="001,49"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="0"/> 
+		<Desc_Circunscripcion V="NACIONAL"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="319994"/> 
+				<Porc V="065,76"/> 
+			</lin>
+			<lin>
+				<Partido V="002"/> 
+				<Votos V="166595"/> 
+				<Porc V="034,23"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="486589"/> 
+				<Porc V="096,00"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0009"/> 
+	<Boletin V="0009"/> 
+	<Tipo_Avance V="DEPARTAMENTAL"/> 
+	<Desc_Corporacion V="PLEBISCITO"/> 
+	<Departamento V="50"/> 
+	<Desc_Departamento V="GUAINIA"/> 
+	<Municipio V="000"/> 
+	<Desc_Municipio V="NO APLICA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="16"/> 
+	<Mes V="09"/> 
+	<Anio V="2016"/> 
+	<Hora V="12"/> 
+	<Minuto V="47"/> 
+	<Seg V="15"/> 
+	<Mesas_Instaladas V="68"/> 
+	<Mesas_Informadas V="57"/> 
+	<Porc_Mesas_Informadas V="083,82"/> 
+	<Potencial_Sufragantes V="25478"/> 
+	<Total_Sufragantes V="22914"/> 
+	<Porc_Sufragantes V="089,93"/> 
+	<Votos_Nulos V="566"/> 
+	<Porc_Votos_Nulos V="002,47"/> 
+	<Votos_No_Marcados V="335"/> 
+	<Porc_Votos_No_Marcados V="001,46"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="0"/> 
+		<Desc_Circunscripcion V="NACIONAL"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="3956"/> 
+				<Porc V="017,97"/> 
+			</lin>
+			<lin>
+				<Partido V="002"/> 
+				<Votos V="18057"/> 
+				<Porc V="082,02"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="22013"/> 
+				<Porc V="096,06"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0009"/> 
+	<Boletin V="0009"/> 
+	<Tipo_Avance V="DEPARTAMENTAL"/> 
+	<Desc_Corporacion V="PLEBISCITO"/> 
+	<Departamento V="52"/> 
+	<Desc_Departamento V="META"/> 
+	<Municipio V="000"/> 
+	<Desc_Municipio V="NO APLICA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="16"/> 
+	<Mes V="09"/> 
+	<Anio V="2016"/> 
+	<Hora V="12"/> 
+	<Minuto V="47"/> 
+	<Seg V="15"/> 
+	<Mesas_Instaladas V="1613"/> 
+	<Mesas_Informadas V="1444"/> 
+	<Porc_Mesas_Informadas V="089,52"/> 
+	<Potencial_Sufragantes V="678413"/> 
+	<Total_Sufragantes V="610511"/> 
+	<Porc_Sufragantes V="089,99"/> 
+	<Votos_Nulos V="15239"/> 
+	<Porc_Votos_Nulos V="002,49"/> 
+	<Votos_No_Marcados V="9130"/> 
+	<Porc_Votos_No_Marcados V="001,49"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="0"/> 
+		<Desc_Circunscripcion V="NACIONAL"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="295332"/> 
+				<Porc V="050,38"/> 
+			</lin>
+			<lin>
+				<Partido V="002"/> 
+				<Votos V="290810"/> 
+				<Porc V="049,61"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="586142"/> 
+				<Porc V="096,00"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0009"/> 
+	<Boletin V="0009"/> 
+	<Tipo_Avance V="DEPARTAMENTAL"/> 
+	<Desc_Corporacion V="PLEBISCITO"/> 
+	<Departamento V="54"/> 
+	<Desc_Departamento V="GUAVIARE"/> 
+	<Municipio V="000"/> 
+	<Desc_Municipio V="NO APLICA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="16"/> 
+	<Mes V="09"/> 
+	<Anio V="2016"/> 
+	<Hora V="12"/> 
+	<Minuto V="47"/> 
+	<Seg V="15"/> 
+	<Mesas_Instaladas V="137"/> 
+	<Mesas_Informadas V="122"/> 
+	<Porc_Mesas_Informadas V="089,05"/> 
+	<Potencial_Sufragantes V="56765"/> 
+	<Total_Sufragantes V="51081"/> 
+	<Porc_Sufragantes V="089,98"/> 
+	<Votos_Nulos V="1273"/> 
+	<Porc_Votos_Nulos V="002,49"/> 
+	<Votos_No_Marcados V="762"/> 
+	<Porc_Votos_No_Marcados V="001,49"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="0"/> 
+		<Desc_Circunscripcion V="NACIONAL"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="13564"/> 
+				<Porc V="027,65"/> 
+			</lin>
+			<lin>
+				<Partido V="002"/> 
+				<Votos V="35482"/> 
+				<Porc V="072,34"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="49046"/> 
+				<Porc V="096,01"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0009"/> 
+	<Boletin V="0009"/> 
+	<Tipo_Avance V="DEPARTAMENTAL"/> 
+	<Desc_Corporacion V="PLEBISCITO"/> 
+	<Departamento V="56"/> 
+	<Desc_Departamento V="SAN ANDRES"/> 
+	<Municipio V="000"/> 
+	<Desc_Municipio V="NO APLICA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="16"/> 
+	<Mes V="09"/> 
+	<Anio V="2016"/> 
+	<Hora V="12"/> 
+	<Minuto V="47"/> 
+	<Seg V="15"/> 
+	<Mesas_Instaladas V="107"/> 
+	<Mesas_Informadas V="100"/> 
+	<Porc_Mesas_Informadas V="093,45"/> 
+	<Potencial_Sufragantes V="47824"/> 
+	<Total_Sufragantes V="43037"/> 
+	<Porc_Sufragantes V="089,99"/> 
+	<Votos_Nulos V="1073"/> 
+	<Porc_Votos_Nulos V="002,49"/> 
+	<Votos_No_Marcados V="643"/> 
+	<Porc_Votos_No_Marcados V="001,49"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="0"/> 
+		<Desc_Circunscripcion V="NACIONAL"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="11502"/> 
+				<Porc V="027,83"/> 
+			</lin>
+			<lin>
+				<Partido V="002"/> 
+				<Votos V="29819"/> 
+				<Porc V="072,16"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="41321"/> 
+				<Porc V="096,01"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0009"/> 
+	<Boletin V="0009"/> 
+	<Tipo_Avance V="DEPARTAMENTAL"/> 
+	<Desc_Corporacion V="PLEBISCITO"/> 
+	<Departamento V="60"/> 
+	<Desc_Departamento V="AMAZONAS"/> 
+	<Municipio V="000"/> 
+	<Desc_Municipio V="NO APLICA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="16"/> 
+	<Mes V="09"/> 
+	<Anio V="2016"/> 
+	<Hora V="12"/> 
+	<Minuto V="47"/> 
+	<Seg V="15"/> 
+	<Mesas_Instaladas V="110"/> 
+	<Mesas_Informadas V="99"/> 
+	<Porc_Mesas_Informadas V="090,00"/> 
+	<Potencial_Sufragantes V="45030"/> 
+	<Total_Sufragantes V="40507"/> 
+	<Porc_Sufragantes V="089,95"/> 
+	<Votos_Nulos V="1004"/> 
+	<Porc_Votos_Nulos V="002,47"/> 
+	<Votos_No_Marcados V="599"/> 
+	<Porc_Votos_No_Marcados V="001,47"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="0"/> 
+		<Desc_Circunscripcion V="NACIONAL"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="15846"/> 
+				<Porc V="040,73"/> 
+			</lin>
+			<lin>
+				<Partido V="002"/> 
+				<Votos V="23058"/> 
+				<Porc V="059,26"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="38904"/> 
+				<Porc V="096,04"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0009"/> 
+	<Boletin V="0009"/> 
+	<Tipo_Avance V="DEPARTAMENTAL"/> 
+	<Desc_Corporacion V="PLEBISCITO"/> 
+	<Departamento V="64"/> 
+	<Desc_Departamento V="PUTUMAYO"/> 
+	<Municipio V="000"/> 
+	<Desc_Municipio V="NO APLICA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="16"/> 
+	<Mes V="09"/> 
+	<Anio V="2016"/> 
+	<Hora V="12"/> 
+	<Minuto V="47"/> 
+	<Seg V="15"/> 
+	<Mesas_Instaladas V="523"/> 
+	<Mesas_Informadas V="460"/> 
+	<Porc_Mesas_Informadas V="087,95"/> 
+	<Potencial_Sufragantes V="213387"/> 
+	<Total_Sufragantes V="192022"/> 
+	<Porc_Sufragantes V="089,98"/> 
+	<Votos_Nulos V="4789"/> 
+	<Porc_Votos_Nulos V="002,49"/> 
+	<Votos_No_Marcados V="2869"/> 
+	<Porc_Votos_No_Marcados V="001,49"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="0"/> 
+		<Desc_Circunscripcion V="NACIONAL"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="66951"/> 
+				<Porc V="036,31"/> 
+			</lin>
+			<lin>
+				<Partido V="002"/> 
+				<Votos V="117413"/> 
+				<Porc V="063,68"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="184364"/> 
+				<Porc V="096,01"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0009"/> 
+	<Boletin V="0009"/> 
+	<Tipo_Avance V="DEPARTAMENTAL"/> 
+	<Desc_Corporacion V="PLEBISCITO"/> 
+	<Departamento V="68"/> 
+	<Desc_Departamento V="VAUPES"/> 
+	<Municipio V="000"/> 
+	<Desc_Municipio V="NO APLICA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="16"/> 
+	<Mes V="09"/> 
+	<Anio V="2016"/> 
+	<Hora V="12"/> 
+	<Minuto V="47"/> 
+	<Seg V="15"/> 
+	<Mesas_Instaladas V="57"/> 
+	<Mesas_Informadas V="53"/> 
+	<Porc_Mesas_Informadas V="092,98"/> 
+	<Potencial_Sufragantes V="20948"/> 
+	<Total_Sufragantes V="18839"/> 
+	<Porc_Sufragantes V="089,93"/> 
+	<Votos_Nulos V="464"/> 
+	<Porc_Votos_Nulos V="002,46"/> 
+	<Votos_No_Marcados V="277"/> 
+	<Porc_Votos_No_Marcados V="001,47"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="0"/> 
+		<Desc_Circunscripcion V="NACIONAL"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="3239"/> 
+				<Porc V="017,89"/> 
+			</lin>
+			<lin>
+				<Partido V="002"/> 
+				<Votos V="14859"/> 
+				<Porc V="082,10"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="18098"/> 
+				<Porc V="096,06"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0009"/> 
+	<Boletin V="0009"/> 
+	<Tipo_Avance V="DEPARTAMENTAL"/> 
+	<Desc_Corporacion V="PLEBISCITO"/> 
+	<Departamento V="72"/> 
+	<Desc_Departamento V="VICHADA"/> 
+	<Municipio V="000"/> 
+	<Desc_Municipio V="NO APLICA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="16"/> 
+	<Mes V="09"/> 
+	<Anio V="2016"/> 
+	<Hora V="12"/> 
+	<Minuto V="47"/> 
+	<Seg V="15"/> 
+	<Mesas_Instaladas V="123"/> 
+	<Mesas_Informadas V="108"/> 
+	<Porc_Mesas_Informadas V="087,80"/> 
+	<Potencial_Sufragantes V="47249"/> 
+	<Total_Sufragantes V="42515"/> 
+	<Porc_Sufragantes V="089,98"/> 
+	<Votos_Nulos V="1060"/> 
+	<Porc_Votos_Nulos V="002,49"/> 
+	<Votos_No_Marcados V="633"/> 
+	<Porc_Votos_No_Marcados V="001,48"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="0"/> 
+		<Desc_Circunscripcion V="NACIONAL"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="8891"/> 
+				<Porc V="021,77"/> 
+			</lin>
+			<lin>
+				<Partido V="002"/> 
+				<Votos V="31931"/> 
+				<Porc V="078,22"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="40822"/> 
+				<Porc V="096,01"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0009"/> 
+	<Boletin V="0009"/> 
+	<Tipo_Avance V="DEPARTAMENTAL"/> 
+	<Desc_Corporacion V="PLEBISCITO"/> 
+	<Departamento V="88"/> 
+	<Desc_Departamento V="CONSULADOS"/> 
+	<Municipio V="000"/> 
+	<Desc_Municipio V="NO APLICA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="16"/> 
+	<Mes V="09"/> 
+	<Anio V="2016"/> 
+	<Hora V="12"/> 
+	<Minuto V="47"/> 
+	<Seg V="15"/> 
+	<Mesas_Instaladas V="1378"/> 
+	<Mesas_Informadas V="1233"/> 
+	<Porc_Mesas_Informadas V="089,47"/> 
+	<Potencial_Sufragantes V="597625"/> 
+	<Total_Sufragantes V="537739"/> 
+	<Porc_Sufragantes V="089,97"/> 
+	<Votos_Nulos V="13386"/> 
+	<Porc_Votos_Nulos V="002,48"/> 
+	<Votos_No_Marcados V="8011"/> 
+	<Porc_Votos_No_Marcados V="001,48"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="0"/> 
+		<Desc_Circunscripcion V="NACIONAL"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="251177"/> 
+				<Porc V="048,64"/> 
+			</lin>
+			<lin>
+				<Partido V="002"/> 
+				<Votos V="265165"/> 
+				<Porc V="051,35"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="516342"/> 
+				<Porc V="096,02"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+</Consolidado>

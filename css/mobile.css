@@ -1,0 +1,124 @@
+#resultados #winRes .boxRes .dataGen .dataConteo {
+    width: 320px;
+    margin: 0 0 12px;
+    padding: 10px 0;
+    /* height: 40px; */
+    float: left;
+    clear: both;
+    /* border: 1px solid #e0e0e0; */
+    border-radius: 1px solid #e0e0e0;
+    list-style-type: none;
+    background-color: #f2f2f2;
+}
+#resultados {
+    width: 320px;
+    /*margin: 0px;*/
+    padding: 0px;
+    /*float: left;*/
+    height: auto;
+    font-weight: 300;
+    color:#222;
+    margin: 0 auto;
+}
+#resultados #navRes {
+    display: none;
+    width: 320px;
+    height: 35px;
+    border-top: 1px solid #AF1016;
+    background-image: -webkit-linear-gradient(270deg,rgba(252,252,252,1.00) 0%,rgba(240,240,240,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(252,252,252,1.00) 0%,rgba(240,240,240,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(252,252,252,1.00) 0%,rgba(240,240,240,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(252,252,252,1.00) 0%,rgba(240,240,240,1.00) 100%);
+    font-size: 18px;
+}
+#resultados #navRes h2 {
+    padding: 10px;
+    float: left;
+    background-color: #AF1016;
+    text-shadow: 0px 0px #FFFFFF;
+    text-align: left;
+    height: 15px;
+    margin: 0;
+    line-height: 15px;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 16px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+#resultados #winRes .boxRes .subNav h3 {
+    float: left;
+    text-align: left;
+    margin: 0;
+    color: #222;
+    font-weight: 300;
+    font-size: 18px;
+    height: 38px;
+    line-height: 18px;
+}
+
+#resultados #winRes .boxRes .dataGen .dataConteo {
+    width: 320px;
+    margin: 0 0 12px;
+    padding: 10px 0;
+    /* height: 40px; */
+    float: left;
+    clear: both;
+    /* border: 1px solid #e0e0e0; */
+    border-radius: 1px solid #e0e0e0;
+    list-style-type: none;
+    background-color: #f2f2f2;
+}
+#resultados #winRes .boxRes .dataGen {
+    width: 320px;
+    float: left;
+    clear: both;
+    margin-top: 25px;
+}
+#resultados #winRes .boxRes .dataGen .dataConteo li {
+    float: left;
+    height: 37px;
+    padding: 10px 15px;
+    /* border-right: 1px solid #e0e0e0; */
+    margin: 0;
+    list-style-type: none;
+}
+#resultados #winRes .boxRes .dataGen .dataConteo li span {
+    width: 100%;
+    height: 15px;
+    display: block;
+    float: left;
+    clear: both;
+    line-height: 15px;
+    font-size: 15px;
+    color: #AF1016;
+}
+#resultados #winRes .boxRes .dataGen .dataConteo li .data {
+    width: 100%;
+    display: block;
+    float: left;
+    clear: both;
+    margin: 2px 0 0;
+    padding: 0;
+    height: 18px;
+}
+#resultados #winRes .boxRes .dataGen .dataConteo li .data li {
+    font-weight: 700;
+    font-size: 19px;
+    color: #222;
+    padding: 0;
+    height: 18px;
+    border: none;
+    line-height: 18px;
+    display: block;
+    float: left;
+}
+#resultados #navRes #principal {
+    padding: 10px;
+    float: left;
+    height: 15px;
+    margin: 0;
+    list-style-type: none;
+    width: 300px;
+}

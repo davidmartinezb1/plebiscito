@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!--<meta http-equiv="refresh" content="60; url=http://localhost/plebiscito/index.html">-->
+  <title>Resultado Plebiscito por departamentos</title>
+  <meta charset="utf-8">
+  <script src="js/vendor/modernizr-2.6.2.min.js"></script>
+  <link rel="stylesheet" media="all" href="css/jquery-jvectormap.css"/>
+  <script src="assets/jquery-1.8.2.js"></script>
+  <script src="js-vector/jquery-jvectormap.js"></script>
+  <style>
+    label.dept-votos-no,.nac-votos-no,.capt-votos-no {
+    color: red;
+    }
+    label.dept-votos-si,.nac-votos-si,.capt-votos-si {
+    color: blue;
+    }
+    label {display: block;}
+    .si,.no{
+      color:black;
+    }
+  </style>
+  
+  <script src="lib/jquery-mousewheel.js"></script>
+
+  <script src="src/jvectormap.js"></script>
+
+  <script src="src/abstract-element.js"></script>
+  <script src="src/abstract-canvas-element.js"></script>
+  <script src="src/abstract-shape-element.js"></script>
+
+  <script src="src/svg-element.js"></script>
+  <script src="src/svg-group-element.js"></script>
+  <script src="src/svg-canvas-element.js"></script>
+  <script src="src/svg-shape-element.js"></script>
+  <script src="src/svg-path-element.js"></script>
+
+
+
+  <script src="src/vector-canvas.js"></script>
+  <script src="src/simple-scale.js"></script>
+  <script src="src/numeric-scale.js"></script>
+  <script src="src/ordinal-scale.js"></script>
+  <script src="src/color-scale.js"></script>
+ 
+
+  <script src="src/map.js"></script>
+  <script src="src/map-object.js"></script>
+  <script src="src/region.js"></script>
+  <script src="assets/jquery-jvectormap-co-merc.js"></script>
+  <script src="js-vector/logica.js"></script>
+  <script>
+    
+  </script>
+</head>
+<body>
+  <div class="consol-nac">
+       <div>
+       <span>Consolidado Nacional</span>
+        <label class="nac-bol">Boletin</label>
+        <label class="nac-hora">Hora de Actualizacion</label>
+        <label class="nac-fecha">Fecha de Actualizacion</label>
+        <label class="nac-mesas">Mesas informadas de las Instalas</label>
+        <label class="nac-votos">Votos contados del potencial de sufragantes</label>
+        <label class="nac-nulos">Votos nulos</label>
+        <label class="nac-marcados">Votos no marcados</label>
+      </div>
+
+      <div><label class="nac-votos-si" style="background: #4BB1F2;">0</label></div>
+      <div><label class="nac-votos-no" style="background: #E95B5B;">0</label>
+      </div>
+  </div>
+
+  <div id="map1" style="display:inline-block;width: 600px; height: 400px"></div>
+
+  <div id="indicador" style="float: right;display:inline-block;width: 600px; height: 400px">
+  
+    <div class="departamental">
+      <label class="dept-Depto">Departamento</label>
+      <label class="dept-bol">Boletin</label>
+      <label class="dept-hora">Hora de Actualizacion</label>
+      <label class="dept-fecha">Fecha de Actualizacion</label>
+      <label class="dept-mesas">Mesas informadas de las Instalas</label>
+      <label class="dept-votos">Votos contados del potencial de sufragantes</label>
+      <label class="dept-nulos">Votos nulos</label>
+      <label class="dept-marcados">Votos no marcados</label>
+      <label class="dept-votos-si">        
+        <span class="CO-ANT">0</span>
+        <span class="CO-ATL">0</span>
+        <span class="CO-BOL">0</span>
+        <span class="CO-BOY">0</span>
+        <span class="CO-CAL">0</span>
+        <span class="CO-CAU">0</span>
+        <span class="CO-CES">0</span>
+        <span class="CO-COR">0</span>
+        <span class="CO-CUN">0</span>
+        <span class="CO-DC">0</span>
+        <span class="CO-CHO">0</span>
+        <span class="CO-HUI">0</span>
+        <span class="CO-MAG">0</span>
+        <span class="CO-NAR">0</span>
+        <span class="CO-RIS">0</span>
+        <span class="CO-NSA">0</span>
+        <span class="CO-QUI">0</span>
+        <span class="CO-SAN">0</span>
+        <span class="CO-SUC">0</span>
+        <span class="CO-TOL">0</span>
+        <span class="CO-VAC">0</span>
+        <span class="CO-ARA">0</span>
+        <span class="CO-CAQ">0</span>
+        <span class="CO-CAS">0</span>
+        <span class="CO-LAG">0</span>
+        <span class="CO-GUA">0</span>
+        <span class="CO-MET">0</span>
+        <span class="CO-GUV">0</span>
+        <span class="CO-SAP">0</span>
+        <span class="CO-AMA">0</span>
+        <span class="CO-PUT">0</span>
+        <span class="CO-VAU">0</span>
+        <span class="CO-VID">0</span>
+      </label>
+      <label class="dept-votos-no">        
+        <span class="CO-ANT">0</span>
+        <span class="CO-ATL">0</span>
+        <span class="CO-BOL">0</span>
+        <span class="CO-BOY">0</span>
+        <span class="CO-CAL">0</span>
+        <span class="CO-CAU">0</span>
+        <span class="CO-CES">0</span>
+        <span class="CO-COR">0</span>
+        <span class="CO-CUN">0</span>
+        <span class="CO-DC">0</span>
+        <span class="CO-CHO">0</span>
+        <span class="CO-HUI">0</span>
+        <span class="CO-MAG">0</span>
+        <span class="CO-NAR">0</span>
+        <span class="CO-RIS">0</span>
+        <span class="CO-NSA">0</span>
+        <span class="CO-QUI">0</span>
+        <span class="CO-SAN">0</span>
+        <span class="CO-SUC">0</span>
+        <span class="CO-TOL">0</span>
+        <span class="CO-VAC">0</span>
+        <span class="CO-ARA">0</span>
+        <span class="CO-CAQ">0</span>
+        <span class="CO-CAS">0</span>
+        <span class="CO-LAG">0</span>
+        <span class="CO-GUA">0</span>
+        <span class="CO-MET">0</span>
+        <span class="CO-GUV">0</span>
+        <span class="CO-SAP">0</span>
+        <span class="CO-AMA">0</span>
+        <span class="CO-PUT">0</span>
+        <span class="CO-VAU">0</span>
+        <span class="CO-VID">0</span>
+      </label>
+    </div>
+
+    <div class="capitales">
+      <label class="capt-capt">Capital</label>
+      <label class="capt-bol">Boletin</label>
+      <label class="capt-hora">Hora de Actualizacion</label>
+      <label class="capt-fecha">Fecha de Actualizacion</label>
+      <label class="capt-mesas">Mesas informadas de las Instalas</label>
+      <label class="capt-votos">Votos contados del potencial de sufragantes</label>
+      <label class="capt-nulos">Votos nulos</label>
+      <label class="capt-marcados">Votos no marcados</label>
+      <label class="capt-votos-si">
+        <span class='ANTIOQUIA'>0</span>
+        <span class='ATLANTICO'>0</span>
+        <span class='BOLIVAR'>0</span>
+        <span class='BOYACA'>0</span>
+        <span class='CALDAS'>0</span>
+        <span class='CAUCA'>0</span>
+        <span class='CESAR'>0</span>
+        <span class='CORDOBA'>0</span>
+        <span class='BOGOTA_DC'>0</span>
+        <span class='CHOCO'>0</span>
+        <span class='HUILA'>0</span>
+        <span class='MAGDALENA'>0</span>
+        <span class='NARIÑO'>0</span>
+        <span class='RISARALDA'>0</span>
+        <span class='NORTE_DE_SAN'>0</span>
+        <span class='QUINDIO'>0</span>
+        <span class='SANTANDER'>0</span>
+        <span class='SUCRE'>0</span>
+        <span class='TOLIMA'>0</span>
+        <span class='VALLE'>0</span>
+        <span class='ARAUCA'>0</span>
+        <span class='CAQUETA'>0</span>
+        <span class='CASANARE'>0</span>
+        <span class='LA_GUAJIRA'>0</span>
+        <span class='GUAINIA'>0</span>
+        <span class='META'>0</span>
+        <span class='GUAVIARE'>0</span>
+        <span class='SAN_ANDRES'>0</span>
+        <span class='AMAZONAS'>0</span>
+        <span class='PUTUMAYO'>0</span>
+        <span class='VAUPES'>0</span>
+        <span class='VICHADA'>0</span>
+      </label>
+      <label class="capt-votos-no">
+        <span class='ANTIOQUIA'>0</span>
+        <span class='ATLANTICO'>0</span>
+        <span class='BOLIVAR'>0</span>
+        <span class='BOYACA'>0</span>
+        <span class='CALDAS'>0</span>
+        <span class='CAUCA'>0</span>
+        <span class='CESAR'>0</span>
+        <span class='CORDOBA'>0</span>
+        <span class='BOGOTA_DC'>0</span>
+        <span class='CHOCO'>0</span>
+        <span class='HUILA'>0</span>
+        <span class='MAGDALENA'>0</span>
+        <span class='NARIÑO'>0</span>
+        <span class='RISARALDA'>0</span>
+        <span class='NORTE_DE_SAN'>0</span>
+        <span class='QUINDIO'>0</span>
+        <span class='SANTANDER'>0</span>
+        <span class='SUCRE'>0</span>
+        <span class='TOLIMA'>0</span>
+        <span class='VALLE'>0</span>
+        <span class='ARAUCA'>0</span>
+        <span class='CAQUETA'>0</span>
+        <span class='CASANARE'>0</span>
+        <span class='LA_GUAJIRA'>0</span>
+        <span class='GUAINIA'>0</span>
+        <span class='META'>0</span>
+        <span class='GUAVIARE'>0</span>
+        <span class='SAN_ANDRES'>0</span>
+        <span class='AMAZONAS'>0</span>
+        <span class='PUTUMAYO'>0</span>
+        <span class='VAUPES'>0</span>
+        <span class='VICHADA'>0</span>
+      </label>
+    </div>   
+  </div>
+
+ 
+</body>
+</html>
+
+<style>
+  .dept-votos-si span{display: none; background: #dcdcdc;}
+  .dept-votos-no span{display: none; background: #dcdcdc;}
+  .capt-votos-no span{display: none; background: #dcdcdc;}
+  .capt-votos-si span{display: none; background: #dcdcdc;}
+  span.mostrar{display: block;}
+</style>
